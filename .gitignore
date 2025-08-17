@@ -1,0 +1,13 @@
+# Build and cache files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+
+# Local environment
+Gemfile.lock
+
+# macOS
+.DS_Store
